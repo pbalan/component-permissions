@@ -1,0 +1,48 @@
+[
+  {
+    "id": "super-admin",
+  	"username": "super-admin",
+  	"email": "super-admin@example.com",
+  	"password": "password"
+  }, {
+    "id": "admin",
+  	"username": "admin",
+  	"email": "admin@example.com",
+  	"password": "password"
+  }, {
+    "id": "contractor",
+  	"username": "contractor",
+  	"email": "contractor@example.com",
+  	"password": "password"
+  }, {
+    "id": "hr-manager",
+  	"username": "hr-manager",
+  	"email": "hr-manager@example.com",
+  	"password": "password"
+  }, {
+    "id": "hr-exec",
+  	"username": "hr-exec",
+  	"email": "hr-exec@example.com",
+  	"password": "password"
+  }, {
+    "id": "manager1",
+  	"username": "manager1",
+  	"email": "manager1@example.com",
+  	"password": "password"
+  }, {
+    "id": "manager2",
+  	"username": "manager2",
+  	"email": "manager2@example.com",
+  	"password": "password"
+  }, {
+    "id": "ic1",
+  	"username": "ic1",
+  	"email": "ic1@example.com",
+  	"password": "password"
+  }, {
+    "id": "ic2",
+  	"username": "ic2",
+  	"email": "ic2@example.com",
+  	"password": "password"
+  }
+]
